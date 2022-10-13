@@ -13,17 +13,13 @@
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## 📝 Networking
 - I am currently looking for a summer 2023 Internship!
 - I am also looking to collaborate on Research Project!
 - Connect with me down below!
-
-## 📈 Stats
-[![Fahada's GitHub stats](https://github-readme-stats.vercel.app/api?username=(ffalathel))](https://github.com/ffalathel/github-readme-stats)
+- 
 
 ## 🔗Connect with me!
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/ffalathel)-->
