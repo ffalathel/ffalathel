@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- I am Fahada Alathel, a **Computer Science major)** studying at the (University of South Florida! 
+- I am Fahada Alathel, a **Computer Science major** studying at the University of South Florida! 
 
 📚 Outside the tech world, I enjoy being active, soccer is my favorite sports, I love music and I'm big into reading.
 
