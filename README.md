@@ -16,7 +16,7 @@
 
 
 ## 📝 Networking
-- I am currently looking for a summer 2023 Internship!
+- I am currently looking for a summer 2024 Internship!
 - I am also looking to collaborate on Research Project!
 - Connect with me down below!
 
