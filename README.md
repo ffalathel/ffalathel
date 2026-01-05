@@ -15,13 +15,7 @@
 ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## 📝 Networking
-- I am currently looking for a summer 2025 Internship!
-- I am also looking to collaborate on Research Project!
-- Connect with me down below!
 
-## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/ffalathel)-->
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]<!---((https://www.instagram.com/ffalathel)-->
+
 
 
