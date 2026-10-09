@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student at the University of South Florida focused on building end-to-end products from mobile interfaces to scalable backend systems and cloud deployment.<br><br>I care about clean architecture, async processing, and shipping production-ready software.<br><br>Currently Building:<br><br>Reel Mapper: a social food-mapping iOS app that lets users save restaurants directly from Instagram via a native Share Extension, automatically resolving captions into real locations using the Google Places API.<br><br>- SwiftUI (MVVM) frontend with optimistic UI updates<br><br>- FastAPI backend with async request handling<br><br>- Celery + Redis workers for concurrent caption parsing & place resolution<br><br>- Dockerized deployment on AWS EC2 with automated CI/CD<br><br>- Focused on building scalable async workflows and clean, maintainable full-stack architecture.
+Computer Science student at the University of South Florida focused on building end-to-end products from mobile interfaces to scalable backend systems and cloud deployment.<br><br>I care about clean architecture, async processing, and shipping production-ready software.
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@ Computer Science student at the University of South Florida focused on building 
 ![](https://nirzak-streak-stats.vercel.app/?user=ffalathel&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ffalathel&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
