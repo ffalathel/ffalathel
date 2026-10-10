@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student at the University of South Florida focused on building end-to-end products from mobile interfaces to scalable backend systems and cloud deployment.<br><br>I care about clean architecture, async processing, and shipping production-ready software.
+New grad backend engineer focused on building end-to-end products from mobile interfaces to scalable backend systems and cloud deployment.<br><br>I care about clean architecture, async processing, and shipping production-ready software.
 
 
 ## 🌐 Socials:
